@@ -12,7 +12,7 @@ yuzu only emulates a subset of Switch hardware and therefore most commercial gam
 
 Do you want to check which games are compatible and which ones are not? Please visit our [Compatibility page](https://yuzu-emu.org/game/)!
 
-yuzu is licensed under the GPLv2 (or any later version). Refer to the license.txt file included.
+yuzu is licensed under the GPLv3 (or any later version). Refer to the license.txt file included.
 
 Check out our [website](https://yuzu-emu.org/)!
 
